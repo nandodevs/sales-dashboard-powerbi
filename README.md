@@ -55,3 +55,5 @@ As seguintes alterações futuras estão planejadas para o dashboard:
 ## Feedback
 
 Qualquer feedback sobre o dashboard é bem-vindo.
+
+[![](https://github.com/nandodevs/sales-dashboard-powerbi/blob/main/captura.png?raw=true)](https://github.com/nandodevs/sales-dashboard-powerbi/blob/main/captura.png?raw=true)
